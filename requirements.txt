@@ -30,3 +30,4 @@ starlette==0.19.1
 typing_extensions==4.6.2
 urllib3==1.26.16
 uvicorn==0.17.6
+aioschedule
